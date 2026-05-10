@@ -1,3 +1,5 @@
+#Programa que se basa en base a los cálculos de un lado, que tipó de triángulo es.
+
 lado_1 = float(input('Ingrese la medida del primer lado: '))
 lado_2 = float(input('Ingrese la medida del segundo lado: '))
 lado_3 = float(input('Ingrese la medida del tercer lado: '))
