@@ -1,5 +1,7 @@
+#En este programa, nos piden que si un número es divisible entre 15, se coloque la palabra "FizzBuzz", pero si es divisible entre 3, se imprima "Buzz" y si es divisible entre 5, "Fizz".
+
 def fizzBuzz(n):
-    # Write your code here
+   #Varibles para decidir cuando dice una palabra u otra
     if n<=0 or n>=200000:
         print(f'error: {n} fuera del rango')
     for i in range(1,n+1):
